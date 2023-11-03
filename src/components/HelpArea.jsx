@@ -8,7 +8,7 @@ const HELP_ITEMS = [
     text: 'Git is a version control system, helping you to manage your code and create code snapshots.',
   },
   //aaa
-  ///
+  /////
   {
     id: 'h2',
     title: 'What is GitHub?',
